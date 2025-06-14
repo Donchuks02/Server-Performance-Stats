@@ -16,7 +16,7 @@ A simple Bash script that collects and logs key server performance metrics into 
 - Basic Unix tools: `top`, `free`, `df`, `ps`, `awk`, `grep`
 - Bash shell
 
-:wq## Sample Output
+## Sample Output
 
 A typical output file will be named:
 server_report_2025-06-14_12-35-43.log
@@ -24,7 +24,7 @@ server_report_2025-06-14_12-35-43.log
 
 And contain structured information like:
 
-=======================================
+==========================
 Server Performance Report
 Generated on: Sat Jun 14 12:35:43 WAT 2025
 
@@ -48,3 +48,6 @@ PID COMMAND %CPU
 PID COMMAND %MEM
 ...
 
+
+## Link to the project page URl
+https://roadmap.sh/projects/server-stats
